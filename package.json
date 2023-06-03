@@ -1,0 +1,22 @@
+{
+  "name": "zoomcharts-shortening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnisM11/ZoomChartsShortening.git"
+  },
+  "author": "Arnis Mednis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnisM11/ZoomChartsShortening/issues"
+  },
+  "homepage": "https://github.com/ArnisM11/ZoomChartsShortening#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
